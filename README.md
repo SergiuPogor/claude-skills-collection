@@ -19,14 +19,14 @@ If you use skills across more than one coding agent, [Skill Manager](https://abu
 
 ## 📈 Overview
 
-**227 skills** across **13 categories**:
+**228 skills** across **13 categories**:
 
 | Category | Skills |
 |----------|--------|
 | 💻 Development & Code Tools | 74 |
 | 📣 Marketing & SEO | 21 |
 | 📝 Writing & Research | 20 |
-| 🤝 Collaboration & Project Management | 19 |
+| 🤝 Collaboration & Project Management | 20 |
 | ⚙️ Utility & Automation | 27 |
 | 🔐 Security & Testing | 15 |
 | 📚 Learning & Knowledge | 14 |
@@ -310,6 +310,7 @@ Official Skills are created by Anthropic and auto-invoked when needed. You can a
 | **test-fixing** | Detect failing tests and propose patches or fixes | [Source](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) |
 | **product-manager-skills** | Senior PM agent with 6 knowledge domains, 12 templates, 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching, and AI product craft | [Source](https://github.com/Digidai/product-manager-skills) |
 | **read-only-gh-pr-review** | Safe read-only review of backend pull requests using GitHub CLI with local inspection | [Source](https://github.com/jawwadfirdousi/agent-skills) |
+| **yylo-skills** | Seven reusable agent skills for Claude Code, Codex, and Pi built around YYLO Ledger — operate task management, maintain wiki and workflow Records, capture provenance-bound evidence, plan implementation-sized tasks, execute one assigned task through validated delivery, and inspect the project before implementation | [Source](https://github.com/yylo-dev/yylo-skills) |
 
 ---
 
