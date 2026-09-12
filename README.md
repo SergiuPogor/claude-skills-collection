@@ -12,7 +12,7 @@ This repository gathers and organizes all publicly available Claude Skills, incl
 If you use skills across more than one coding agent, [Skill Manager](https://abubakarsiddik31.github.io/skill-manager/) gives you one dashboard to discover, enable, disable, edit, and delete them across Claude Code, Codex, Cursor, and OpenCode. [Download it here](https://abubakarsiddik31.github.io/skill-manager/); view the [source on GitHub](https://github.com/abubakarsiddik31/skill-manager).
 
 <a href="https://abubakarsiddik31.github.io/skill-manager/">
-  <img src="https://raw.githubusercontent.com/abubakarsiddik31/skill-manager/main/docs/banner.svg" alt="Skill Manager — one dashboard to manage every AI coding agent skill you've installed" width="100%" />
+  <img src="https://raw.githubusercontent.com/abubakarsiddik31/skill-manager/main/docs/assets/social-card.png" alt="Skill Manager — every skill, every agent, one dashboard" width="100%" />
 </a>
 
 ---
